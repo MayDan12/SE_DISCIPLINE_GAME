@@ -1,3 +1,5 @@
+DAY 1 OF SE_DISCIPLINE CHALLENGE
+
 What is Recursion?
 -Recursion in programming is a technique where a function calls itself in order to solve a problem. Instead of solving the entire problem at once, the function breaks it down into smaller, more manageable sub-problems. These sub-problems are solved by calling the same function, and the results are combined to obtain the solution to the original problem.
 
