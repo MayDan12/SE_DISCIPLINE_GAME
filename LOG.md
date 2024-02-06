@@ -11,6 +11,7 @@ Basic Idea of Breaking Down a Problem into Smaller Sub-Problems:
 
 # Day 2 OF SE_DISCIPLINE CHALLENGE
 FACTORIALS !!!!!!
+
 I learnt how to do recursion with factorial basically a function calling itself until it gets to the base code 
 
 n! = n * (n-1)!
