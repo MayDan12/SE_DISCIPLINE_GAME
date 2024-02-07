@@ -35,3 +35,32 @@ int fib(int n){
   if (n >= 3) {return fib(n-1) + fib(n-2)}
   else {return 1}
 }
+
+# Day 3 OF SE_DISCIPLINE CHALLENGE
+
+I dived deeper into recursive function understanding how recursion is applied in solving problems like searching, sorting, and optimization.
+
+I Learnt how recursion works by breaking down a problem into smaller sub-problems.
+
+pseudo code
+
+linear searching algorithms
+
+a = [12,5,7,9,4,2,6,8]
+
+where n is the count of numbers in the array
+value is the number to be checked 
+int linear(int a, int n, value)
+{
+    int i;
+    if (a == NULL)
+    { 
+          return -1;
+    }
+    for (i = 0; i < n; i++) {
+       if (a[i] == value) {
+          return i;
+       }
+    }
+    return -1;
+}
