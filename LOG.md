@@ -71,3 +71,8 @@ int linear(int a, int n, value)
 I created a recursive function that converts decimal numbers to base 2 which is binary 0 and 1 i learnt it in Java but i later converted it to JavaScript i had a little error but fixed it with the help of a friend
 
 I also learnt what was going on in the heap stack when a recursive function is been called it keeps record of the value until it reaches the base case then it pass the value down then delete the function calls leaving the final answers
+
+
+# Day 5 OF SE_DISCIPLINE CHALLENGE
+
+Implemented binary search, merge sort, and quicksort algorithms using a recursive approach, breaking down each problem into smaller sub-problems. Leveraged Python for coding, emphasizing the recursive nature of these algorithms. Successfully tested the implementations, ensuring correctness and efficiency in the search and sorting processes.
